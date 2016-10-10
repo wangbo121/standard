@@ -2,6 +2,6 @@
 #include <stdio.h>
 int main()
 {
-	添加return
+	//添加return
 }
 
