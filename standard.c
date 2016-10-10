@@ -2,6 +2,7 @@
 #include <stdio.h>
 int main()
 {
+	getchar();
 	//添加return
 	return 0;
 }
