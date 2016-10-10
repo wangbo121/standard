@@ -3,5 +3,6 @@
 int main()
 {
 	//添加return
+	return 0;
 }
 
