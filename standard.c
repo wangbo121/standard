@@ -2,5 +2,6 @@
 #include <stdio.h>
 int main()
 {
+	添加return
 }
 
